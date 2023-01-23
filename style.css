@@ -4,7 +4,6 @@
     border: solid 1px #666;
   }
   
-  /* pieces are div within game table cells: draw as colored circles */
   
   .piece {
     margin: 5px;
@@ -13,7 +12,6 @@
     border-radius: 50%;
   }
   
-  /* column-top is table row of clickable areas for each column */
   
   #column-top td {
     border: dashed 1px lightgray;
